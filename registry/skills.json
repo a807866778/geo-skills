@@ -1,0 +1,36 @@
+{
+  "name": "GEO优化师技能包",
+  "version": "2.0.0",
+  "description": "GEO端到端工作流技能包，覆盖品牌采集→全景诊断→问题挖掘→内容生产→页面优化→平台分发→多平台发布→效果监测全链路",
+  "categories": {
+    "strategy": ["geo-brand-intake", "geo-panorama-audit", "geo-execution-roadmap"],
+    "research": ["geo-question-discovery", "geo-intent-miner"],
+    "content-production": ["geo-title-optimizer", "geo-explainer-builder", "geo-comparison-builder", "geo-ranking-builder", "geo-content-refiner"],
+    "page-technical": ["geo-page-audit", "geo-page-blueprint"],
+    "knowledge-assets": ["geo-brand-graph", "geo-knowledge-base"],
+    "operations": ["geo-platform-strategy", "geo-publisher"],
+    "measurement": ["geo-tracking", "geo-monitoring"],
+    "orchestration": ["geo-end-to-end"]
+  },
+  "skills": [
+    { "id": "geo-brand-intake", "category": "strategy", "priority": 1 },
+    { "id": "geo-panorama-audit", "category": "strategy", "priority": 2 },
+    { "id": "geo-execution-roadmap", "category": "strategy", "priority": 3 },
+    { "id": "geo-question-discovery", "category": "research", "priority": 4 },
+    { "id": "geo-intent-miner", "category": "research", "priority": 5 },
+    { "id": "geo-title-optimizer", "category": "content-production", "priority": 6 },
+    { "id": "geo-explainer-builder", "category": "content-production", "priority": 7 },
+    { "id": "geo-comparison-builder", "category": "content-production", "priority": 7 },
+    { "id": "geo-ranking-builder", "category": "content-production", "priority": 7 },
+    { "id": "geo-content-refiner", "category": "content-production", "priority": 8 },
+    { "id": "geo-page-audit", "category": "page-technical", "priority": 9 },
+    { "id": "geo-page-blueprint", "category": "page-technical", "priority": 9 },
+    { "id": "geo-brand-graph", "category": "knowledge-assets", "priority": 10 },
+    { "id": "geo-knowledge-base", "category": "knowledge-assets", "priority": 10 },
+    { "id": "geo-platform-strategy", "category": "operations", "priority": 11 },
+    { "id": "geo-publisher", "category": "operations", "priority": 12 },
+    { "id": "geo-tracking", "category": "measurement", "priority": 13 },
+    { "id": "geo-monitoring", "category": "measurement", "priority": 14 },
+    { "id": "geo-end-to-end", "category": "orchestration", "priority": 0 }
+  ]
+}
