@@ -11,6 +11,7 @@ triggers:
   - SEO转GEO
   - 公众号优化
 version: "2.0"
+metadata: {"openclaw": {"emoji": "♻", "homepage": "https://github.com/a807866778/geo-skills"}}
 ---
 
 # GEO 内容改造器 (geo-content-refiner)

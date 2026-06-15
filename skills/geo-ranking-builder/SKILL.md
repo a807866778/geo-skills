@@ -12,6 +12,7 @@ triggers:
   - 推荐清单
   - 排行榜
 version: "2.0"
+metadata: {"openclaw": {"emoji": "🏆", "homepage": "https://github.com/a807866778/geo-skills"}}
 ---
 
 # GEO 榜单构建器 (geo-ranking-builder)

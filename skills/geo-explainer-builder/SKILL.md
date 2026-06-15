@@ -11,6 +11,7 @@ triggers:
   - 知识科普
   - 使用指南文章
 version: "2.0"
+metadata: {"openclaw": {"emoji": "📖", "homepage": "https://github.com/a807866778/geo-skills"}}
 ---
 
 # GEO 科普文章构建器 (geo-explainer-builder)

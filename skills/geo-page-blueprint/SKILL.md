@@ -13,6 +13,7 @@ triggers:
   - page blueprint
   - AI-extractable design
 version: "2.0"
+metadata: {"openclaw": {"emoji": "📐", "homepage": "https://github.com/a807866778/geo-skills"}}
 ---
 
 # GEO友好页面蓝图 (geo-page-blueprint)

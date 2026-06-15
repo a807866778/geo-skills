@@ -3,6 +3,7 @@ name: geo-publisher
 description: GEO内容多平台发布引擎。支持L1直链跳转/L2剪贴板适配/L3浏览器自动化/L4 API直发四级发布架构，覆盖87个内容平台。支持定时发布、发布前人工审核、草稿模式、平台间隔控制及验证码暂停机制。
 agent_created: true
 version: "2.0"
+metadata: {"openclaw": {"emoji": "📡", "homepage": "https://github.com/a807866778/geo-skills"}}
 triggers:
   - 发布
   - 多平台发布

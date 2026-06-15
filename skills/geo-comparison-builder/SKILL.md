@@ -11,6 +11,7 @@ triggers:
   - 选购指南
   - 品牌比较
 version: "2.0"
+metadata: {"openclaw": {"emoji": "⚖", "homepage": "https://github.com/a807866778/geo-skills"}}
 ---
 
 # GEO 对比文章构建器 (geo-comparison-builder)

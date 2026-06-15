@@ -3,6 +3,7 @@ name: geo-monitoring
 description: GEO效果监测。三级监测体系：日报（工作日8:30品牌可见性快检+异常告警）、周报（周一9:00趋势分析+内容健康度+竞品动态+环比对比）、月报（每月1号10:00深度复盘+趋势图+算法影响评估+信源权威审计+下月优化计划）。输出各频次标准化报告模板。
 agent_created: true
 version: "2.0"
+metadata: {"openclaw": {"emoji": "📊", "homepage": "https://github.com/a807866778/geo-skills"}}
 triggers:
   - 效果监测
   - 日报

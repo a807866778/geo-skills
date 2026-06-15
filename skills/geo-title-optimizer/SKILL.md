@@ -12,6 +12,7 @@ triggers:
   - 知乎标题
   - 小红书标题
 version: "2.0"
+metadata: {"openclaw": {"emoji": "✍", "homepage": "https://github.com/a807866778/geo-skills"}}
 ---
 
 # GEO 标题优化器 (geo-title-optimizer)

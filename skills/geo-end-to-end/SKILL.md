@@ -3,6 +3,7 @@ name: geo-end-to-end
 description: GEO端到端工作流编排器 v2.0。串联品牌采集→全景审计→执行路线图→问题挖掘+意图识别→标题优化→文章生成→页面蓝图→品牌图谱+知识库→平台策略→发布→追踪+监测的全流程。支持从任意阶段部分入口，支持模式A（品牌直推）和模式B（种子关键词切入）。包含首次运行引导信息和自动化调度任务。
 agent_created: true
 version: "2.0"
+metadata: {"openclaw": {"emoji": "🔄", "homepage": "https://github.com/a807866778/geo-skills"}}
 triggers:
   - 端到端
   - 全流程

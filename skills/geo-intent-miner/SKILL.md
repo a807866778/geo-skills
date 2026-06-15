@@ -13,6 +13,7 @@ triggers:
   - 追问链
   - 监测词库
 version: "2.0"
+metadata: {"openclaw": {"emoji": "⛏", "homepage": "https://github.com/a807866778/geo-skills"}}
 ---
 
 # GEO 意图挖掘器 (geo-intent-miner)

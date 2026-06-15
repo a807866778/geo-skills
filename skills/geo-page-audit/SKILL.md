@@ -12,6 +12,7 @@ triggers:
   - page audit
   - AI crawlability
 version: "2.0"
+metadata: {"openclaw": {"emoji": "🔬", "homepage": "https://github.com/a807866778/geo-skills"}}
 ---
 
 # GEO页面诊断器 (geo-page-audit)

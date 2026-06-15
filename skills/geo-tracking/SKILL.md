@@ -3,6 +3,7 @@ name: geo-tracking
 description: GEO归因追踪。设计后端GEO效果追踪方案，包括追踪计划制定、UTM参数方案设计、归因模型选择（首次/末次/多触点）、转化路径映射。区分国内追踪（百度统计/友盟）与国际追踪（GA4）。支持HTML/DOCX报告导出。
 agent_created: true
 version: "2.0"
+metadata: {"openclaw": {"emoji": "🎯", "homepage": "https://github.com/a807866778/geo-skills"}}
 triggers:
   - 归因追踪
   - 追踪方案

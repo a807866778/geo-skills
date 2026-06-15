@@ -11,6 +11,7 @@ triggers:
   - 品牌问答
   - 用户搜索意图
 version: "2.0"
+metadata: {"openclaw": {"emoji": "💡", "homepage": "https://github.com/a807866778/geo-skills"}}
 ---
 
 # GEO 问题发现器 (geo-question-discovery)

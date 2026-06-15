@@ -11,6 +11,7 @@ triggers:
   - 品牌资料包
   - GEO品牌准备
 version: "2.0"
+metadata: {"openclaw": {"emoji": "📋", "homepage": "https://github.com/a807866778/geo-skills"}}
 ---
 
 # GEO 品牌资料采集与事实校验（geo-brand-intake）

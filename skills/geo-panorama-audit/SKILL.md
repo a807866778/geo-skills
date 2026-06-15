@@ -12,6 +12,7 @@ triggers:
   - 品牌召回率
   - AI搜索结果分析
 version: "2.0"
+metadata: {"openclaw": {"emoji": "🔍", "homepage": "https://github.com/a807866778/geo-skills"}}
 ---
 
 # GEO 全景诊断（geo-panorama-audit）

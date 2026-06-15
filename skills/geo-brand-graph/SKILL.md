@@ -13,6 +13,7 @@ triggers:
   - entity relationship
   - entity triplets
 version: "2.0"
+metadata: {"openclaw": {"emoji": "🕸", "homepage": "https://github.com/a807866778/geo-skills"}}
 ---
 
 # 品牌知识图谱 (geo-brand-graph)

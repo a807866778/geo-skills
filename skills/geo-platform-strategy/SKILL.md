@@ -3,6 +3,7 @@ name: geo-platform-strategy
 description: GEO内容分发平台策略。基于品牌行业、目标区域和内容类型，从87个平台数据库中匹配最佳分发平台，给出优先级评分和平台适配建议。支持综合自媒体、搜索系自媒体、中央媒体号、省级媒体号、本地流媒体、地方门户、垂直测评平台、电商种草平台8大分类。
 agent_created: true
 version: "2.0"
+metadata: {"openclaw": {"emoji": "🚀", "homepage": "https://github.com/a807866778/geo-skills"}}
 triggers:
   - 平台策略
   - 分发平台
