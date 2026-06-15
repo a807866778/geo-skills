@@ -57,6 +57,21 @@ GEO（生成式引擎优化）端到端工作流技能包，19个标准化AgentS
 |------|------|
 | geo-end-to-end | 19技能全流程编排器，模式A/B双入口 |
 
+## 安装
+
+**直接对 OpenClaw 说这句话即可自动安装**：
+
+> 解压这个 zip 文件，把所有 geo- 开头的文件夹复制到 ~/.agents/skills/ 下面
+
+如果 Agent 没有文件操作权限，手动执行：
+
+```bash
+# 下载并安装
+unzip geo-skills-openclaw-v2.0.zip -d ~/.agents/skills/
+```
+
+安装后无需重启，在新对话中直接说自然语言即可使用。
+
 ## 快速开始
 
 ```bash
