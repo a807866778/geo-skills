@@ -1,0 +1,8 @@
+{
+  "name": "geo-comparison-builder",
+  "version": "2.0.0",
+  "description": "品牌对比文章构建器，七维对比表",
+  "main": "SKILL.md",
+  "keywords": ["geo", "generative-engine-optimization", "comparison"],
+  "category": "content"
+}

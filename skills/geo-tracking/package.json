@@ -1,0 +1,8 @@
+{
+  "name": "geo-tracking",
+  "version": "2.0.0",
+  "description": "GEO归因追踪，UTM方案，转化路径映射",
+  "main": "SKILL.md",
+  "keywords": ["geo", "generative-engine-optimization", "tracking"],
+  "category": "measurement"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "geo-brand-intake",
+  "version": "2.0.0",
+  "description": "15字段品牌资料采集，事实校验，合规检查",
+  "main": "SKILL.md",
+  "keywords": ["geo", "generative-engine-optimization", "brand-intake"],
+  "category": "strategy"
+}

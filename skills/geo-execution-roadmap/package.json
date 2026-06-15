@@ -1,0 +1,8 @@
+{
+  "name": "geo-execution-roadmap",
+  "version": "2.0.0",
+  "description": "30/60/90天三阶段GEO执行路线图",
+  "main": "SKILL.md",
+  "keywords": ["geo", "generative-engine-optimization", "roadmap"],
+  "category": "strategy"
+}

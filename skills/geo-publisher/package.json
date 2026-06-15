@@ -1,0 +1,8 @@
+{
+  "name": "geo-publisher",
+  "version": "2.0.0",
+  "description": "L1-L4四级发布引擎，定时发布",
+  "main": "SKILL.md",
+  "keywords": ["geo", "generative-engine-optimization", "publisher"],
+  "category": "operations"
+}

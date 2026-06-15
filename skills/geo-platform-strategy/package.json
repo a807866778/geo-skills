@@ -1,0 +1,8 @@
+{
+  "name": "geo-platform-strategy",
+  "version": "2.0.0",
+  "description": "87平台匹配策略，优先级评分",
+  "main": "SKILL.md",
+  "keywords": ["geo", "generative-engine-optimization", "platform"],
+  "category": "operations"
+}

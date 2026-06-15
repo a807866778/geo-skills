@@ -1,0 +1,8 @@
+{
+  "name": "geo-monitoring",
+  "version": "2.0.0",
+  "description": "日/周/月三级监测系统，自动告警",
+  "main": "SKILL.md",
+  "keywords": ["geo", "generative-engine-optimization", "monitoring"],
+  "category": "measurement"
+}

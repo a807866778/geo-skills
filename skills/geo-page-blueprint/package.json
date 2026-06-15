@@ -1,0 +1,8 @@
+{
+  "name": "geo-page-blueprint",
+  "version": "2.0.0",
+  "description": "GEO友好页面信息架构蓝图",
+  "main": "SKILL.md",
+  "keywords": ["geo", "generative-engine-optimization", "blueprint"],
+  "category": "technical"
+}

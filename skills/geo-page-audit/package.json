@@ -1,0 +1,8 @@
+{
+  "name": "geo-page-audit",
+  "version": "2.0.0",
+  "description": "网页GEO可抓取性六维诊断",
+  "main": "SKILL.md",
+  "keywords": ["geo", "generative-engine-optimization", "audit"],
+  "category": "technical"
+}

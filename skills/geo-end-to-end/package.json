@@ -1,0 +1,8 @@
+{
+  "name": "geo-end-to-end",
+  "version": "2.0.0",
+  "description": "19技能全流程编排器，模式A/B双入口",
+  "main": "SKILL.md",
+  "keywords": ["geo", "generative-engine-optimization", "e2e"],
+  "category": "orchestration"
+}

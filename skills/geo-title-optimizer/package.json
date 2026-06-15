@@ -1,0 +1,8 @@
+{
+  "name": "geo-title-optimizer",
+  "version": "2.0.0",
+  "description": "GEO标题候选库生成，四维评分，5平台风格变体",
+  "main": "SKILL.md",
+  "keywords": ["geo", "generative-engine-optimization", "title"],
+  "category": "content"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "geo-content-refiner",
+  "version": "2.0.0",
+  "description": "旧文GEO改造器，实体标签注入",
+  "main": "SKILL.md",
+  "keywords": ["geo", "generative-engine-optimization", "refiner"],
+  "category": "content"
+}

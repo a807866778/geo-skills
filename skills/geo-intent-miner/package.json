@@ -1,0 +1,8 @@
+{
+  "name": "geo-intent-miner",
+  "version": "2.0.0",
+  "description": "意图集群扩展，追问链，监测提示词库",
+  "main": "SKILL.md",
+  "keywords": ["geo", "generative-engine-optimization", "intent"],
+  "category": "research"
+}

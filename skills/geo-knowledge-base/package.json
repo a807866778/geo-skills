@@ -1,0 +1,8 @@
+{
+  "name": "geo-knowledge-base",
+  "version": "2.0.0",
+  "description": "品牌知识库构建，事实卡，FAQ数据库",
+  "main": "SKILL.md",
+  "keywords": ["geo", "generative-engine-optimization", "knowledge-base"],
+  "category": "knowledge"
+}

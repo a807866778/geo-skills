@@ -1,0 +1,8 @@
+{
+  "name": "geo-ranking-builder",
+  "version": "2.0.0",
+  "description": "榜单评测文章构建器，透明方法论文",
+  "main": "SKILL.md",
+  "keywords": ["geo", "generative-engine-optimization", "ranking"],
+  "category": "content"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "geo-question-discovery",
+  "version": "2.0.0",
+  "description": "7维度AI搜索高频问题挖掘，TOP10排名",
+  "main": "SKILL.md",
+  "keywords": ["geo", "generative-engine-optimization", "questions"],
+  "category": "research"
+}

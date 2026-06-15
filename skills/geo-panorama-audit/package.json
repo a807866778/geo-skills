@@ -1,0 +1,8 @@
+{
+  "name": "geo-panorama-audit",
+  "version": "2.0.0",
+  "description": "GEO全景诊断，5大AI平台品牌可见性基线",
+  "main": "SKILL.md",
+  "keywords": ["geo", "generative-engine-optimization", "audit"],
+  "category": "strategy"
+}

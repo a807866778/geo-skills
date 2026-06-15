@@ -1,0 +1,8 @@
+{
+  "name": "geo-brand-graph",
+  "version": "2.0.0",
+  "description": "品牌实体关系图谱，Mermaid+JSON-LD",
+  "main": "SKILL.md",
+  "keywords": ["geo", "generative-engine-optimization", "graph"],
+  "category": "knowledge"
+}
